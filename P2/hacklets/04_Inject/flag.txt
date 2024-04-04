@@ -1,1 +1,0 @@
-InfoSec{tasty_shellcode}

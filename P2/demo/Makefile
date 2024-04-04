@@ -1,3 +1,0 @@
-all:
-	gcc -o demo1 -static -ggdb demo1.c
-	gcc -o demo2 -static -ggdb -fno-stack-protector demo2.c

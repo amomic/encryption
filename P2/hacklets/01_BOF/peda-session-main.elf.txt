@@ -1,5 +1,0 @@
-break /mnt/host/hacklets/01_BOF/main.c:37
-break /mnt/host/hacklets/01_BOF/main.c:13
-break /mnt/host/hacklets/01_BOF/main.c:14
-
-

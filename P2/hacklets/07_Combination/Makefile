@@ -1,4 +1,0 @@
-all:
-	gcc -m32 -static -o main -O0 -ggdb main.c -fno-stack-protector -Wno-format-security
-clean:
-	rm -f main core 
