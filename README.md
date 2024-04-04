@@ -1,1 +1,1 @@
-Implementation by Anamarija Momnic and Stasa Mandic. Framework by Daniel Kales (Information Security IAIK TUGRAZ)
+Implementation by Anamarija Momic and Stasa Mandic. Framework by Daniel Kales (Information Security IAIK TUGRAZ)
